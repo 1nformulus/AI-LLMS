@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI & LLM Presentation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    .slide {
+      padding: 40px;
+      background-color: white;
+      margin: 20px auto;
+      max-width: 900px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .image {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .image img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .content {
+      font-size: 1.2em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Slide 1 -->
+  <div class="slide">
+    <h1>Understanding AI & LLMs</h1>
+    <h2>What they are, how they work, and why they matter</h2>
+    <div class="image">
+      <img src="https://i.imgur.com/YyS5QZB.png" alt="Robot with brain" />
+    </div>
+    <p class="content">By [Your Name] – [Date]</p>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="slide">
+    <h2>What is Artificial Intelligence (AI)?</h2>
+    <p class="content">AI means computers that can think or learn like people. It's in things like Siri, Google Maps, or self-driving cars.</p>
+    <div class="image">
+      <img src="https://i.imgur.com/BuP8X6k.png" alt="Human brain vs computer brain" />
+    </div>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="slide">
+    <h2>What is a Large Language Model (LLM)?</h2>
+    <p class="content">LLMs are AIs that understand and generate human language. Examples: ChatGPT, Google Bard.</p>
+    <div class="image">
+      <img src="https://i.imgur.com/lftzKZR.png" alt="Chatbot talking to human" />
+    </div>
+  </div>
+
+  <!-- Slide 4 -->
+  <div class="slide">
+    <h2>How Do LLMs Work?</h2>
+    <p class="content">They learn from huge amounts of text (books, websites). They find patterns and predict the next word—kind of like autocomplete.</p>
+    <div class="image">
+      <img src="https://i.imgur.com/IvJzzfj.png" alt="Text flow to AI brain" />
+    </div>
+  </div>
+
+  <!-- Slide 5 -->
+  <div class="slide">
+    <h2>Why Do LLMs Matter?</h2>
+    <p class="content">They help people write, translate, and find answers. Used in school, medicine, business, and more.</p>
+    <div class="image">
+      <img src="https://i.imgur.com/XhEZBSk.png" alt="Icons of AI helping humans" />
+    </div>
+  </div>
+
+  <!-- Slide 6 -->
+  <div class="slide">
+    <h2>Challenges of AI & LLMs</h2>
+    <p class="content">They can make mistakes, spread bias, and use a lot of energy and computing power.</p>
+    <div class="image">
+      <img src="https://i.imgur.com/kKXGgwn.png" alt="Warning signs of AI" />
+    </div>
+  </div>
+
+  <!-- Slide 7 -->
+  <div class="slide">
+    <h2>What Hardware is Needed?</h2>
+    <p class="content">AI needs fast GPUs, lots of RAM, and big storage. Most people can’t train LLMs, but they can use them!</p>
+    <div class="image">
+      <img src="https://i.imgur.com/7UBMvWZ.png" alt="Computer GPU chip" />
+    </div>
+  </div>
+
+  <!-- Slide 8 -->
+  <div class="slide">
+    <h2>Final Thoughts</h2>
+    <p class="content">AI and LLMs are amazing tools. Use them wisely — they’re smart, but not perfect!</p>
+    <div class="image">
+      <img src="https://i.imgur.com/GJv2qHM.png" alt="Robot and human handshake" />
+    </div>
+  </div>
+
+</body>
+</html>
